@@ -1,6 +1,9 @@
-# ¡Hola! Bienvenido a mi perfil 👋
+<div align="center">
+  <h1>¡Hola! Bienvenido a mi perfil 👋</h1>
+  <p>Soy estudiante de <b>Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica y mis exploraciones tecnológicas.</p>
+</div>
 
-Soy estudiante de **Ingeniería en Telecomunicaciones y Electrónica** en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica y mis exploraciones tecnológicas.
+---
 
 ### 👨‍💻 Sobre mí
 
@@ -8,6 +11,14 @@ Soy estudiante de **Ingeniería en Telecomunicaciones y Electrónica** en el Ins
 * 🌱 Mejorando mis habilidades en **HTML5, CSS3, JavaScript** y sistemas con microcontroladores.
 * 💻 Mi entorno de desarrollo principal es **Linux Mint**.
 * ⚡ Dato curioso: Mi mejor código sale cuando escucho Lofi (¡especialmente Nujabes o J Dilla!).
+
+### 🚀 Mis Proyectos Destacados
+
+Aquí comparto algunos de los repositorios en los que he estado trabajando:
+
+* 🎵 **[Lofi Page Experimental](#)** - Página web con reproductor de música integrado, carrusel de imágenes y un quiz interactivo. *(HTML, CSS, JavaScript)*
+* 💻 **[Proyecto de Ingeniería de Software](#)** - Desarrollo enfocado en sistemas de información para el ámbito académico.
+* 🔧 **[Nombre de tu proyecto 3](#)** - *Breve descripción de lo que hace el proyecto y las tecnologías que utilizaste.*
 
 ### 🛠️ Herramientas y Tecnologías
 
