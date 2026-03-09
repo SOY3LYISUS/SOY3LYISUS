@@ -16,8 +16,6 @@
 Aquí comparto algunos de los repositorios espero les sean de ayuda o interesantes:
 
 * 🎵 [🌍 Haz clic aquí para ver mi Lofi Page en vivo](https://SOY3LYISUS.github.io/lofi-page-experimental/)
-* 💻 **[Proyecto de Ingeniería de Software](#)** - Desarrollo enfocado en sistemas de información para el ámbito académico.
-* 🔧 **[Nombre de tu proyecto 3](#)** - *Breve descripción de lo que hace el proyecto y las tecnologías que utilizaste.*
 
 ### 🛠️ Herramientas y Tecnologías
 
