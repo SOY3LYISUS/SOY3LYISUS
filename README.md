@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>¡Hola! Bienvenid@ a mi perfil de GitHub =D </h1>
-  <p> <b>:blue_book: Estudio Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para mostrar algunos proyectos que e desarrollado durante mi estancia académica :computer: . </p>
+ <h1>¡Hola! Bienvenid@ a mi perfil de GitHub =D </h1>
+ <p> <b>:blue_book: Estudio Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para subir los proyectos que e desarrollado durante mi estancia académica :computer: . </p>
 </div>
 
 ---
