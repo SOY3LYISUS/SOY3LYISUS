@@ -15,7 +15,7 @@
 
 Aquí comparto algunos de los repositorios, espero les sean de ayuda o interesantes:
 
-* 🎵 [🌍 Haz clic aquí para ver una peuqeña pagina sobre Lofi](https://soy3lyisus.github.io/Lofi-Page/)
+* 🎵 [🌍 Haz clic aquí para ver una pequeña pagina sobre Lofi](https://soy3lyisus.github.io/Lofi-Page/)
 
 ### 🛠️ Herramientas y Tecnologías
 
