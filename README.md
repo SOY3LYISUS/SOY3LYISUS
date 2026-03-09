@@ -40,5 +40,5 @@ Aquí comparto algunos de los repositorios espero les sean de ayuda o interesant
 ---
 
 <p align="center">
-  <i>"La ingeniería no es solo entender cómo funcionan las cosas, sino descubrir cómo hacer que funcionen mejor. ⚡<br>Construyendo el futuro entre circuitos, señales de telecomunicaciones y líneas de código."</i>
+  <i>"Pondre mas repositorios o mas proyectos en un futuro.<br>"</i>
 </p>
