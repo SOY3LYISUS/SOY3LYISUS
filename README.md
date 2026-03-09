@@ -1,22 +1,22 @@
 <div align="center">
   <h1>¡Hola! Bienvenido a mi perfil 👋</h1>
-  <p>Soy estudiante de <b>Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica y mis exploraciones tecnológicas.</p>
+  <p>Soy estudiante de <b>Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica. </p>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+🌱 Sobre mí :snowflake:
 
-* 🔭 Actualmente enfocado en proyectos de desarrollo Front-end, como páginas interactivas con reproductores multimedia.
-* 🌱 Mejorando mis habilidades en **HTML5, CSS3, JavaScript** y sistemas con microcontroladores.
+* 🔭 Actualmente interesado en explorar mis capacidades.
+* 🌱 En proceso de mejora de mis habilidades en **HTML5, CSS3, JavaScript** y microcontroladores.
 * 💻 Mi entorno de desarrollo principal es **Linux Mint**.
-* ⚡ Dato curioso: Mi mejor código sale cuando escucho Lofi (¡especialmente Nujabes o J Dilla!).
+* ⚡ Me encanta escuchar musica.
 
 ### 🚀 Mis Proyectos Destacados
 
 Aquí comparto algunos de los repositorios en los que he estado trabajando:
 
-* 🎵 **[Lofi Page Experimental](#)** - Página web con reproductor de música integrado, carrusel de imágenes y un quiz interactivo. *(HTML, CSS, JavaScript)*
+* 🎵 [🌍 Haz clic aquí para ver mi Lofi Page en vivo](https://SOY3LYISUS.github.io/lofi-page-experimental/)
 * 💻 **[Proyecto de Ingeniería de Software](#)** - Desarrollo enfocado en sistemas de información para el ámbito académico.
 * 🔧 **[Nombre de tu proyecto 3](#)** - *Breve descripción de lo que hace el proyecto y las tecnologías que utilizaste.*
 
