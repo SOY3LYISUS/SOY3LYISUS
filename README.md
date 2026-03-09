@@ -40,5 +40,5 @@ Aquí comparto algunos de los repositorios espero les sean de ayuda o interesant
 ---
 
 <p align="center">
-  <i>"Pondre mas repositorios o mas proyectos en un futuro.<br>"</i>
+  <i>"Pondre mas repositorios o mas proyectos en un futuro".<br></i>
 </p>
