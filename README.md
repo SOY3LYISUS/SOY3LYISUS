@@ -7,11 +7,11 @@
 🌱 Sobre mí :snowflake:
 
 * 🔭 Actualmente interesado en explorar mis capacidades.
-* 🌱 En proceso de mejora de mis habilidades en **HTML5, CSS3, JavaScript** y microcontroladores.
+* 🌱 En proceso de mejorar mis habilidades en **HTML, CSS, JavaScript** y microcontroladores.
 * 💻 Interesado en dominar **Linux Mint**.
 * ⚡ Me encanta escuchar musica.
 
-### 🚀 Mis Proyectos Destacados
+###  :floppy_disk: Mis Proyectos Destacados :cd:
 
 Aquí comparto algunos de los repositorios espero les sean de ayuda o interesantes:
 
