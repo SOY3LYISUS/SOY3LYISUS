@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>¡Hola! Bienvenido a mi perfil 👋</h1>
-  <p>Soy estudiante de <b>Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica. </p>
+  <h1>¡Hola! Bienvenid@ a mi perfil de GitHub =D </h1>
+  <p> <b>:blue_book: Estudio Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para compartir los proyectos que desarrollo durante mi estancia académica :computer: . </p>
 </div>
 
 ---
