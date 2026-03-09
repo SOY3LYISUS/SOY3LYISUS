@@ -9,12 +9,12 @@
 
 * 🔭 Actualmente interesado en explorar mis capacidades.
 * 🌱 En proceso de mejora de mis habilidades en **HTML5, CSS3, JavaScript** y microcontroladores.
-* 💻 Mi entorno de desarrollo principal es **Linux Mint**.
+* 💻 Interesado en dominar **Linux Mint**.
 * ⚡ Me encanta escuchar musica.
 
 ### 🚀 Mis Proyectos Destacados
 
-Aquí comparto algunos de los repositorios en los que he estado trabajando:
+Aquí comparto algunos de los repositorios espero les sean de ayuda o interesantes:
 
 * 🎵 [🌍 Haz clic aquí para ver mi Lofi Page en vivo](https://SOY3LYISUS.github.io/lofi-page-experimental/)
 * 💻 **[Proyecto de Ingeniería de Software](#)** - Desarrollo enfocado en sistemas de información para el ámbito académico.
