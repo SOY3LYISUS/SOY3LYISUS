@@ -27,4 +27,3 @@ Aquí comparto algunos de los repositorios, espero les sean de ayuda o interesan
 
 ---
 
-### 📊 Mis Estadísticas
