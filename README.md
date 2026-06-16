@@ -1,17 +1,16 @@
-<h1 align="center">¡Hola! Bienvenid@ a mi perfil de GitHub =D!</h1>
+<h1 align="center">¡Hola! Bienvenid@ a mi perfil de GitHub</h1>
 
-<p align="center"><b>📘 Estudio Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para subir los proyectos que he desarrollado durante mi estancia académica 💻.</p>
+<p align="center"><b> Estudiante de Ingeniería en Telecomunicaciones y Electrónica</b> en el Instituto Politécnico Nacional. Este espacio es para subir los proyectos que he desarrollado durante mi estancia académica.</p>
 
 ---
 
-🌱 **Sobre mí** ❄️
+### 🌱 **Mas detalles** ❄️
 
-* 🔭 Actualmente interesado en explorar mis capacidades.
-* 🌱 En proceso de mejorar mis habilidades en **HTML, CSS, JavaScript** y microcontroladores.
-* 💻 Interesado en dominar **Linux Mint**.
-* ⚡ Me encanta escuchar música.
+* 🔭 Actualmente estoy interesado en explorar mis capacidades.
+* 🌱 En proceso de mejorar mis habilidades en **HTML, CSS, JavaScript, c#, bases de datos en SQL** y el uso de microcontroladores.
+* 💻 Interesado en expandir mi conocimiento en el entorno **Linux**.
 
-### 💾 Mis Proyectos Destacados 💿
+💾 Mis Proyectos Destacados 💿
 
 Aquí comparto algunos de los repositorios, espero les sean de ayuda o interesantes:
 
